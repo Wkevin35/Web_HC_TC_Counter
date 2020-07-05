@@ -6,7 +6,7 @@
 1.請先安裝 JQuery CDN
 
 2.安裝 conter CDN
-  網址: https://github.com/Wkevin35/Web_HC_TC_Counter/blob/master/counter.js
+  網址: https://wkevin35.github.io/Web_HC_TC_Counter/counter.js
 
 3.使用
 ```
